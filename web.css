@@ -60,7 +60,7 @@ a{
 
 
 .titale{
-	color: 
+	color: #DEB887;
 	font-weight:bold;
 	letter-spacing: 2px;
 	font-family: 'Inconsolata', monospace;
@@ -121,3 +121,22 @@ a{
 
 
 
+.star{
+	height: 60px;
+	width: 330px;
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+
+
+.fa-star-o{
+	font-size: 65;
+} 
+
+.fa-heart{
+	font-size: 65;
+}
